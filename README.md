@@ -1,7 +1,5 @@
 # Food-Delivery-Time-Prediction
 Food Delivery services like Zomato and Swiggy need to show the accurate time it will take to deliver your order to keep transparency with their customers
-<br>
-To predict the food delivery time in real-time, we need to calculate the distance between the food preparation point and the point of food consumption. After finding the distance between the restaurant and the delivery locations, we need to find relationships between the time taken by delivery partners to deliver the food in the past for the same distance.
 
 ![image](https://user-images.githubusercontent.com/62798405/212265121-057b20c4-9344-4acd-b8e0-00960b53cea5.png)
 ![image](https://user-images.githubusercontent.com/62798405/212265195-04d2ad30-4cad-4447-b025-b9d947611adf.png)
