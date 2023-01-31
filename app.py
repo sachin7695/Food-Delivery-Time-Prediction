@@ -6,7 +6,6 @@ from delivery_data import Delivery_Data
 import numpy as np
 import pandas as pd
 import tensorflow as tf
-import tensorflow as tf
 physical_devices = tf.config.list_physical_devices('GPU')
 tf.config.experimental.set_memory_growth(physical_devices[0], enable=True)
 # 2. Create the app object
